@@ -13,7 +13,7 @@
 
 ## Sobre
 
-Cuido de infraestrutura, automação e desenvolvimento na **CAV SUL**, distribuidora Tupperware em São Paulo. Meu trabalho é fazer sistemas que não nasceram para conversar trabalharem juntos — service desk, atendimento, portais e bancos de dados — e transformar processos manuais em fluxos que rodam sozinhos.
+Cuido de infraestrutura, automação e desenvolvimento na **CAV SUL**, empresa do grupo Tupperware Latam. Meu trabalho é fazer sistemas que não nasceram para conversar trabalharem juntos — service desk, atendimento, portais e bancos de dados — e transformar processos manuais em fluxos que rodam sozinhos.
 
 - **Service desk** — administração do GLPI e desenvolvimento de plugins para a versão 11
 - **Automação** — workflows no n8n, RPA com Python e Selenium, integrações via API e webhooks
