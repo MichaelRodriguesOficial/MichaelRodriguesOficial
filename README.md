@@ -5,8 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/São%20Paulo%2C%20Brasil-0F1622?style=flat-square&logo=googlemaps&logoColor=2DD4BF" alt="São Paulo, Brasil">
   <img src="https://img.shields.io/badge/Infra%20%C2%B7%20Automação%20%C2%B7%20Dev-0F1622?style=flat-square&logo=linux&logoColor=818CF8" alt="Infra · Automação · Dev">
-  <!-- Para adicionar o LinkedIn, troque SEU-USUARIO e descomente a linha abaixo -->
-  <!-- <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0F1622?style=flat-square&logo=linkedin&logoColor=60A5FA" alt="LinkedIn"></a> -->
+  <a href="https://www.linkedin.com/in/michaelrodriguesoficial/"><img src="https://img.shields.io/badge/LinkedIn-0F1622?style=flat-square&logo=linkedin&logoColor=60A5FA" alt="LinkedIn"></a>
 </p>
 
 <br>
@@ -26,12 +25,13 @@ Cuido de infraestrutura, automação e desenvolvimento na **CAV SUL**, empresa d
 - Leitura de NFS-e e boletos com IA para automatizar o contas a pagar
 
 #### Automação & dados
+- Integrações via API com sistemas legados e ERPs, alimentando relatórios no Power BI e no Metabase
 - RPA com Selenium em Docker que extrai pedidos de um portal corporativo para o PostgreSQL, com análise de crédito e rastreio de entregas via API
 - Onboarding automatizado de novos colaboradores
 - Geração de Pix (BR Code) direto nos workflows
 
 #### Infraestrutura
-- Servidores Linux com Docker, Nginx, MariaDB, PostgreSQL, Redis e storage S3, monitorados com Grafana e Prometheus
+- Servidores Linux e Windows, com Docker gerenciado via aaPanel, Nginx, MariaDB, PostgreSQL, Redis e storage S3, monitorados com Grafana e Prometheus
 - Storage corporativo de arquivos e MDM para a frota de smartphones da empresa
 - Migrações de domínio AD e para o Microsoft 365, além de relay SMTP com Azure
 
@@ -40,10 +40,10 @@ Cuido de infraestrutura, automação e desenvolvimento na **CAV SUL**, empresa d
 ## Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,bash,githubactions,azure,grafana,prometheus&theme=dark" alt="Infraestrutura" height="44">
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker,nginx,bash,powershell,githubactions,azure,grafana,prometheus&theme=dark" alt="Infraestrutura" height="44">
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,selenium,php,js,ts,react,postgres,mysql,redis&theme=dark" alt="Linguagens e bancos" height="44">
+  <img src="https://skillicons.dev/icons?i=py,selenium,php,js,ts,react,postgres,mysql,redis,postman&theme=dark" alt="Linguagens e bancos" height="44">
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/GLPI-0F1622?style=for-the-badge&logoColor=white" alt="GLPI">
@@ -51,6 +51,8 @@ Cuido de infraestrutura, automação e desenvolvimento na **CAV SUL**, empresa d
   <img src="https://img.shields.io/badge/Chatwoot-0F1622?style=for-the-badge&logo=chatwoot&logoColor=1F93FF" alt="Chatwoot">
   <img src="https://img.shields.io/badge/Metabase-0F1622?style=for-the-badge&logo=metabase&logoColor=509EE3" alt="Metabase">
   <img src="https://img.shields.io/badge/MinIO-0F1622?style=for-the-badge&logo=minio&logoColor=C72E49" alt="MinIO">
+  <img src="https://img.shields.io/badge/Power%20BI-0F1622?style=for-the-badge&logoColor=white" alt="Power BI">
+  <img src="https://img.shields.io/badge/aaPanel-0F1622?style=for-the-badge&logoColor=white" alt="aaPanel">
 </p>
 
 <br>
