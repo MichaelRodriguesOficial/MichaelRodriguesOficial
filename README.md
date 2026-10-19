@@ -15,7 +15,8 @@
 Cuido de infraestrutura, automação e desenvolvimento na **CAV SUL**, empresa do grupo Tupperware Latam. Sou o tipo de profissional que resolve de ponta a ponta: do servidor ao plugin, do workflow ao dashboard. Meu foco é fazer sistemas que não nasceram para conversar trabalharem juntos e transformar processos manuais em fluxos que rodam sozinhos.
 
 #### Service desk · GLPI
-- Plugins para GLPI 11: integração com Chatwoot, reserva de salas e **CSAT+**, que dispara pesquisas de satisfação no encerramento do chamado e tem dashboard próprio
+- Plugin **Chatwoot for GLPI**: chat dentro do GLPI e painel de chamados dentro do Chatwoot, com hardening de segurança a partir da revisão do catálogo oficial de plugins e testes automatizados em CI
+- Outros plugins para GLPI 11: reserva de salas e **CSAT+**, que dispara pesquisas de satisfação no encerramento do chamado e tem dashboard próprio
 - Contribuição ao plugin oficial do Metabase: acesso a dashboards por grupo e por usuário
 - Tuning de performance em produção: PHP-FPM, OPcache, InnoDB, Redis e Nginx
 
