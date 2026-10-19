@@ -5,7 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/São%20Paulo%2C%20Brasil-0F1622?style=flat-square&logo=googlemaps&logoColor=2DD4BF" alt="São Paulo, Brasil">
   <img src="https://img.shields.io/badge/Infra%20%C2%B7%20Automação%20%C2%B7%20Dev-0F1622?style=flat-square&logo=linux&logoColor=818CF8" alt="Infra · Automação · Dev">
-  <a href="https://www.linkedin.com/in/michaelrodriguesoficial/"><img src="https://img.shields.io/badge/LinkedIn-0F1622?style=flat-square&logo=linkedin&logoColor=60A5FA" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/michaelrodriguesoficial/"><img src="https://img.shields.io/badge/LinkedIn-0F1622?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0iIzYwQTVGQSIvPjxjaXJjbGUgY3g9IjciIGN5PSI3LjIiIHI9IjEuNyIgZmlsbD0iIzBGMTYyMiIvPjxyZWN0IHg9IjUuNSIgeT0iOS44IiB3aWR0aD0iMyIgaGVpZ2h0PSI4LjciIHJ4PSIwLjQiIGZpbGw9IiMwRjE2MjIiLz48cGF0aCBmaWxsPSIjMEYxNjIyIiBkPSJNMTAuNiA5LjhoMi44djEuM2MuNS0uOSAxLjYtMS41IDIuOS0xLjUgMi4xIDAgMy4yIDEuMyAzLjIgMy44djUuMWgtMi45di00LjdjMC0xLjItLjUtMS45LTEuNS0xLjlzLTEuNi43LTEuNiAxLjl2NC43aC0yLjl6Ii8%2BPC9zdmc%2BCg%3D%3D" alt="LinkedIn"></a>
+  <a href="https://github.com/sponsors/MichaelRodriguesOficial"><img src="https://img.shields.io/badge/Sponsor-0F1622?style=flat-square&logo=githubsponsors&logoColor=DB61A2" alt="Sponsor"></a>
 </p>
 
 <br>
