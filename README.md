@@ -17,7 +17,8 @@ Cuido de infraestrutura, automação e desenvolvimento na **CAV SUL**, empresa d
 
 #### Service desk · GLPI
 - Plugin **Chatwoot for GLPI**: chat dentro do GLPI e painel de chamados dentro do Chatwoot, com hardening de segurança a partir da revisão do catálogo oficial de plugins e testes automatizados em CI
-- Outros plugins para GLPI 11: reserva de salas e **CSAT+**, que dispara pesquisas de satisfação no encerramento do chamado e tem dashboard próprio
+- Plugin **NPSphere**: pesquisas de satisfação e NPS após cada chamado e para equipes e clientes, respondidas com um clique no e-mail, com painel, alertas de nota baixa e exportação para Excel
+- Plugin de reserva de salas para GLPI 11
 - Contribuição ao plugin oficial do Metabase: acesso a dashboards por grupo e por usuário
 - Tuning de performance em produção: PHP-FPM, OPcache, InnoDB, Redis e Nginx
 
@@ -29,6 +30,7 @@ Cuido de infraestrutura, automação e desenvolvimento na **CAV SUL**, empresa d
 #### Automação & dados
 - Integrações via API com sistemas legados e ERPs, alimentando relatórios no Power BI e no Metabase
 - RPA com Selenium em Docker que extrai pedidos de um portal corporativo para o PostgreSQL, com análise de crédito e rastreio de entregas via API
+- App desktop para Windows em Python que imprime em lote arquivos, pastas e compactados, com testes automatizados e executável gerado no CI
 - Onboarding automatizado de novos colaboradores
 - Geração de Pix (BR Code) direto nos workflows
 
@@ -63,6 +65,8 @@ Cuido de infraestrutura, automação e desenvolvimento na **CAV SUL**, empresa d
 
 <p align="center">
   <a href="https://github.com/MichaelRodriguesOficial/Chatwoot-GLPi"><img src="assets/card-chatwoot-glpi.svg" alt="Chatwoot for GLPI" width="49%"></a>
+  <a href="https://github.com/MichaelRodriguesOficial/NPS-GLPi"><img src="assets/card-npsphere.svg" alt="NPSphere for GLPI" width="49%"></a>
+  <a href="https://github.com/MichaelRodriguesOficial/printer"><img src="assets/card-printer.svg" alt="Impressão em lote" width="49%"></a>
   <a href="https://github.com/pluginsGLPI/metabase/pull/144"><img src="assets/card-metabase.svg" alt="Metabase para GLPI" width="49%"></a>
   <a href="https://github.com/MichaelRodriguesOficial/mariadb_mysql-backup-s3"><img src="assets/card-backup-s3.svg" alt="MariaDB / MySQL → S3" width="49%"></a>
   <img src="assets/card-automacoes.svg" alt="Automações de negócio" width="49%">
