@@ -19,7 +19,7 @@ Cuido de infraestrutura, automação e desenvolvimento na **CAV SUL**, empresa d
 - Plugin **Chatwoot for GLPI**: chat dentro do GLPI e painel de chamados dentro do Chatwoot, com hardening de segurança a partir da revisão do catálogo oficial de plugins e testes automatizados em CI
 - Plugin **NPSphere**: pesquisas de satisfação e NPS após cada chamado e para equipes e clientes, respondidas com um clique no e-mail, com painel, alertas de nota baixa e exportação para Excel
 - Plugin de reserva de salas para GLPI 11
-- Contribuição ao plugin oficial do Metabase: acesso a dashboards por grupo e por usuário
+- Contribuição **aceita no plugin oficial do Metabase** para GLPI ([PR #144](https://github.com/pluginsGLPI/metabase/pull/144)): acesso a dashboards por grupo e por usuário, além do perfil
 - Tuning de performance em produção: PHP-FPM, OPcache, InnoDB, Redis e Nginx
 
 #### Atendimento & IA
@@ -30,12 +30,14 @@ Cuido de infraestrutura, automação e desenvolvimento na **CAV SUL**, empresa d
 #### Automação & dados
 - Integrações via API com sistemas legados e ERPs, alimentando relatórios no Power BI e no Metabase
 - RPA com Selenium em Docker que extrai pedidos de um portal corporativo para o PostgreSQL, com análise de crédito e rastreio de entregas via API
-- App desktop para Windows em Python que imprime em lote arquivos, pastas e compactados, com testes automatizados e executável gerado no CI
+- App desktop para Windows em Python que imprime em lote arquivos, pastas e compactados, com PDF vetorial, testes automatizados, benchmark em vários drivers e executável gerado no CI
 - Onboarding automatizado de novos colaboradores
 - Geração de Pix (BR Code) direto nos workflows
 
 #### Infraestrutura
 - Servidores Linux e Windows, com Docker gerenciado via aaPanel, Nginx, MariaDB, PostgreSQL, Redis e storage S3, monitorados com Grafana e Prometheus
+- **Remotely**: mantenho o fork do Remotely, ferramenta de suporte remoto descontinuada em 2024, agora em .NET 10, com interface em português, inventário de hardware e software, diagnóstico e reparos remotos em lote
+- **Baixador**: fila de downloads self-hosted em Docker que junta arquivos em partes, descompacta e entrega por link temporário
 - Storage corporativo de arquivos e MDM para a frota de smartphones da empresa
 - Migrações de domínio AD e para o Microsoft 365, além de relay SMTP com Azure
 
@@ -47,7 +49,7 @@ Cuido de infraestrutura, automação e desenvolvimento na **CAV SUL**, empresa d
   <img src="https://skillicons.dev/icons?i=linux,windows,docker,nginx,bash,powershell,githubactions,azure,grafana,prometheus&theme=dark" alt="Infraestrutura" height="44">
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,selenium,php,js,ts,react,postgres,mysql,redis,postman&theme=dark" alt="Linguagens e bancos" height="44">
+  <img src="https://skillicons.dev/icons?i=py,selenium,php,cs,dotnet,js,ts,react,postgres,mysql,redis,postman&theme=dark" alt="Linguagens e bancos" height="44">
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/GLPI-0F1622?style=for-the-badge&logoColor=white" alt="GLPI">
@@ -66,10 +68,12 @@ Cuido de infraestrutura, automação e desenvolvimento na **CAV SUL**, empresa d
 <p align="center">
   <a href="https://github.com/MichaelRodriguesOficial/Chatwoot-GLPi"><img src="assets/card-chatwoot-glpi.svg" alt="Chatwoot for GLPI" width="49%"></a>
   <a href="https://github.com/MichaelRodriguesOficial/NPS-GLPi"><img src="assets/card-npsphere.svg" alt="NPSphere for GLPI" width="49%"></a>
-  <a href="https://github.com/MichaelRodriguesOficial/printer"><img src="assets/card-printer.svg" alt="Impressão em lote" width="49%"></a>
+  <a href="https://github.com/MichaelRodriguesOficial/Remotely"><img src="assets/card-remotely.svg" alt="Remotely" width="49%"></a>
   <a href="https://github.com/pluginsGLPI/metabase/pull/144"><img src="assets/card-metabase.svg" alt="Metabase para GLPI" width="49%"></a>
-  <a href="https://github.com/MichaelRodriguesOficial/mariadb_mysql-backup-s3"><img src="assets/card-backup-s3.svg" alt="MariaDB / MySQL → S3" width="49%"></a>
+  <a href="https://github.com/MichaelRodriguesOficial/printer"><img src="assets/card-printer.svg" alt="Impressão em lote" width="49%"></a>
+  <a href="https://github.com/MichaelRodriguesOficial/baixador"><img src="assets/card-baixador.svg" alt="Baixador" width="49%"></a>
   <img src="assets/card-automacoes.svg" alt="Automações de negócio" width="49%">
+  <a href="https://github.com/MichaelRodriguesOficial/mariadb_mysql-backup-s3"><img src="assets/card-backup-s3.svg" alt="MariaDB / MySQL → S3" width="49%"></a>
 </p>
 
 <br>

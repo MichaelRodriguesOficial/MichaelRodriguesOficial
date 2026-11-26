@@ -11,10 +11,10 @@
     <rect width="600" height="2" fill="url(#accent)" opacity="0.9"/>
     <circle cx="38" cy="38" r="5" fill="#509EE3"/>
     <text x="52" y="42.5" font-family="ui-monospace,'SF Mono','JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#64748B">PHP · GLPI · Metabase</text>
-    <rect x="448" y="24" width="120" height="26" rx="13" fill="none" stroke="#263248"/>
-    <text x="508.0" y="41.5" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#7C8BA1">contribuição</text>
+    <rect x="464" y="24" width="104" height="26" rx="13" fill="#2DD4BF" fill-opacity="0.08" stroke="#2DD4BF"/>
+    <text x="516.0" y="41.5" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#2DD4BF">✓ mesclado</text>
     <text x="31" y="84" font-size="27" font-weight="700" fill="#F1F5F9" letter-spacing="-0.4">Metabase para GLPI</text>
-    <text x="32" y="114" font-size="17.5" fill="#9CA8BA">Acesso a dashboards por grupo e por usuário,</text><text x="32" y="140" font-size="17.5" fill="#9CA8BA">contribuído ao projeto original (PR #144).</text>
+    <text x="32" y="114" font-size="17.5" fill="#9CA8BA">Acesso a dashboards por grupo e por usuário,</text><text x="32" y="140" font-size="17.5" fill="#9CA8BA">aceito no plugin oficial (PR #144).</text>
     <rect x="32" y="164" width="116" height="26" rx="13" fill="#131B2A" stroke="#1F2A3C"/><text x="90.0" y="182" text-anchor="middle" font-size="13.5" fill="#94A3B8">Open source</text><rect x="156" y="164" width="44" height="26" rx="13" fill="#131B2A" stroke="#1F2A3C"/><text x="178.0" y="182" text-anchor="middle" font-size="13.5" fill="#94A3B8">BI</text><rect x="208" y="164" width="108" height="26" rx="13" fill="#131B2A" stroke="#1F2A3C"/><text x="262.0" y="182" text-anchor="middle" font-size="13.5" fill="#94A3B8">Permissões</text>
     <rect x="0.5" y="0.5" width="599" height="209" rx="15.5" fill="none" stroke="#1E293B"/>
   </g>
